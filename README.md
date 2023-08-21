@@ -90,9 +90,9 @@ streamlit run app.py
 
 ## Summary
 
-| Code | Name                       | Published Article |                                                 Deployed App |
-| ---- | -------------------------- | :---------------: | -----------------------------------------------------------: |
-| P4   | Store sales prediction app |                   | [My app](https://deeeteeee01-sales-prediction-app.hf.space)) |
+| Code | Name                       | Published Article | Deployed App |
+| ---- | -------------------------- | :---------------: | -----------: |
+| P4   | Store sales prediction app |                   |              |
 
 ## Contributions
 
