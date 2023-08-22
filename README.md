@@ -109,3 +109,4 @@ Feel free to contribute to different aspects of the project, including improving
 ## Author
 
 Michael Dzifa Kumassah.
+Samuel Amoako Boateng
